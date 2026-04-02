@@ -1,1 +1,1 @@
-print("dd121212312kwsfk2222222sdf")
+print("Hello, World!")
